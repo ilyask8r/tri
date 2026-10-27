@@ -1,0 +1,85 @@
+{
+  "title": "Daily X narrative digest - 2026-10-27",
+  "date": "2026-10-27",
+  "timezone": "Europe/Berlin",
+  "updated": "2026-10-27T22:27:55Z",
+  "virals_title": "Outsiders · last 48h",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@https_ilya",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [],
+  "virals_narrative": "",
+  "narrative_synthesis": "",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-10-27",
+    "tracking_start": "2026-10-27",
+    "days_included": [
+      "2026-10-27"
+    ],
+    "month_days_included": [
+      "2026-10-27"
+    ],
+    "week": {
+      "label": "Starting 2026-10-27",
+      "range": [
+        "2026-10-27",
+        "2026-10-27"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "Starting 2026-10-27",
+      "range": [
+        "2026-10-27",
+        "2026-10-27"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "operator": {
+    "handle": "@https_ilya",
+    "name": "Ilya",
+    "profile_url": "https://x.com/https_ilya"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null,
+  "trend_input_only_posts": []
+}
