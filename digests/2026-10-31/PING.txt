@@ -1,0 +1,4 @@
+X digest 31.10: 69 hits ≥5k (43 ★) (self-quotes: 12); +20 outsiders.
+X keywords 24h (sample): top-5 open source 757.9K ↑, LLM 115.9K ↑, Grok 89.6K ↑, ChatGPT 78.4K ↑, Gemini 40.7K ↑
+TOP-10: 1/10 (10%) matched trends · coincidence/other 4, author/audience 3, visual 2, trend 1
+Board: https://ilyask8r.github.io/tri/
