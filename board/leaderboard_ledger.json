@@ -1,0 +1,1127 @@
+{
+  "tracking_start": "2026-10-27",
+  "timezone": "Europe/Berlin",
+  "threshold": 5000,
+  "days": {
+    "2026-10-27": {
+      "accounts": {
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 6,
+          "best": 1365592,
+          "total": 1907158,
+          "best_url": "https://x.com/levelsio/status/2115038124526989711"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 2,
+          "best": 275662,
+          "total": 536960,
+          "best_url": "https://x.com/swyx/status/2114864999709753526"
+        },
+        "nutlope": {
+          "handle": "@nutlope",
+          "name": "Hassan",
+          "hits": 1,
+          "best": 74849,
+          "total": 74849,
+          "best_url": "https://x.com/nutlope/status/2115159545307619695"
+        },
+        "ansem": {
+          "handle": "@ansem",
+          "name": "ansem",
+          "hits": 1,
+          "best": 58451,
+          "total": 58451,
+          "best_url": "https://x.com/ansem/status/2115164826196643964"
+        },
+        "cryptomichnl": {
+          "handle": "@CryptoMichNL",
+          "name": "Michaël van de Poppe",
+          "hits": 14,
+          "best": 38625,
+          "total": 380757,
+          "best_url": "https://x.com/CryptoMichNL/status/2115091397393232061"
+        },
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 4,
+          "best": 36739,
+          "total": 67686,
+          "best_url": "https://x.com/jackfriks/status/2114868752793690187"
+        },
+        "defiignas": {
+          "handle": "@DefiIgnas",
+          "name": "Ignas",
+          "hits": 4,
+          "best": 26807,
+          "total": 72481,
+          "best_url": "https://x.com/DefiIgnas/status/2114992477849411992"
+        },
+        "frankdegods": {
+          "handle": "@frankdegods",
+          "name": "Frank",
+          "hits": 2,
+          "best": 26773,
+          "total": 44797,
+          "best_url": "https://x.com/frankdegods/status/2114919863533945234"
+        },
+        "saboo_shubham_": {
+          "handle": "@Saboo_Shubham_",
+          "name": "Shubham Saboo",
+          "hits": 1,
+          "best": 19536,
+          "total": 19536,
+          "best_url": "https://x.com/Saboo_Shubham_/status/2114915390275150225"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 3,
+          "best": 16733,
+          "total": 33378,
+          "best_url": "https://x.com/tibo_maker/status/2115028317627687258"
+        },
+        "simonw": {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 1,
+          "best": 15447,
+          "total": 15447,
+          "best_url": "https://x.com/simonw/status/2115128326922883517"
+        },
+        "hamelhusain": {
+          "handle": "@HamelHusain",
+          "name": "Hamel Husain",
+          "hits": 1,
+          "best": 11278,
+          "total": 11278,
+          "best_url": "https://x.com/HamelHusain/status/2114935968604299552"
+        }
+      }
+    },
+    "2026-10-28": {
+      "accounts": {
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 10,
+          "best": 707728,
+          "total": 1349425,
+          "best_url": "https://x.com/levelsio/status/2115398769030082660"
+        },
+        "cryptomichnl": {
+          "handle": "@CryptoMichNL",
+          "name": "Michaël van de Poppe",
+          "hits": 12,
+          "best": 157851,
+          "total": 507306,
+          "best_url": "https://x.com/CryptoMichNL/status/2115367251964744137"
+        },
+        "simonw": {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 1,
+          "best": 85932,
+          "total": 85932,
+          "best_url": "https://x.com/simonw/status/2115444742595260551"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 75359,
+          "total": 80520,
+          "best_url": "https://x.com/tibo_maker/status/2115403825557245970"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 3,
+          "best": 20707,
+          "total": 37721,
+          "best_url": "https://x.com/jxnlco/status/2115576858313887908"
+        },
+        "defiignas": {
+          "handle": "@DefiIgnas",
+          "name": "Ignas",
+          "hits": 3,
+          "best": 18769,
+          "total": 41298,
+          "best_url": "https://x.com/DefiIgnas/status/2115414123190288526"
+        },
+        "rowancheung": {
+          "handle": "@rowancheung",
+          "name": "Rowan Cheung",
+          "hits": 1,
+          "best": 16068,
+          "total": 16068,
+          "best_url": "https://x.com/rowancheung/status/2115493365038944411"
+        },
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 6,
+          "best": 15514,
+          "total": 57745,
+          "best_url": "https://x.com/jackfriks/status/2115234016005623814"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 1,
+          "best": 12437,
+          "total": 12437,
+          "best_url": "https://x.com/swyx/status/2115341903311024395"
+        }
+      }
+    },
+    "2026-10-29": {
+      "accounts": {
+        "0xngmi": {
+          "handle": "@0xngmi",
+          "name": "0xngmi",
+          "hits": 7,
+          "best": 1620844,
+          "total": 1838321,
+          "best_url": "https://x.com/0xngmi/status/2115918200013533203"
+        },
+        "btibor91": {
+          "handle": "@btibor91",
+          "name": "Tibor Blaho",
+          "hits": 2,
+          "best": 341584,
+          "total": 347305,
+          "best_url": "https://x.com/btibor91/status/2115927832069292214"
+        },
+        "sudoingx": {
+          "handle": "@sudoingX",
+          "name": "Sudo su",
+          "hits": 5,
+          "best": 199671,
+          "total": 259957,
+          "best_url": "https://x.com/sudoingX/status/2115609564523499663"
+        },
+        "simonw": {
+          "handle": "@simonw",
+          "name": "Simon Willison",
+          "hits": 1,
+          "best": 151852,
+          "total": 151852,
+          "best_url": "https://x.com/simonw/status/2115821668350435645"
+        },
+        "atmoio": {
+          "handle": "@atmoio",
+          "name": "Mo",
+          "hits": 4,
+          "best": 136430,
+          "total": 185335,
+          "best_url": "https://x.com/atmoio/status/2115586089981542688"
+        },
+        "ericzakariasson": {
+          "handle": "@ericzakariasson",
+          "name": "eric zakariasson",
+          "hits": 2,
+          "best": 135593,
+          "total": 265359,
+          "best_url": "https://x.com/ericzakariasson/status/2115586309096083730"
+        },
+        "thorstenball": {
+          "handle": "@thorstenball",
+          "name": "Thorsten Ball",
+          "hits": 5,
+          "best": 120046,
+          "total": 227991,
+          "best_url": "https://x.com/thorstenball/status/2115852581364801911"
+        },
+        "cbb0fe": {
+          "handle": "@Cbb0fe",
+          "name": "CBB",
+          "hits": 2,
+          "best": 64008,
+          "total": 119298,
+          "best_url": "https://x.com/Cbb0fe/status/2115799163917181434"
+        },
+        "mitsuhiko": {
+          "handle": "@mitsuhiko",
+          "name": "Armin Ronacher ⇌",
+          "hits": 4,
+          "best": 61531,
+          "total": 107233,
+          "best_url": "https://x.com/mitsuhiko/status/2115720960309432630"
+        },
+        "ryolu_": {
+          "handle": "@ryolu_",
+          "name": "Ryo Lu",
+          "hits": 1,
+          "best": 53219,
+          "total": 53219,
+          "best_url": "https://x.com/ryolu_/status/2115683228027912634"
+        },
+        "ansem": {
+          "handle": "@ansem",
+          "name": "ansem",
+          "hits": 3,
+          "best": 50770,
+          "total": 86735,
+          "best_url": "https://x.com/ansem/status/2115840872306642946"
+        },
+        "chetaslua": {
+          "handle": "@chetaslua",
+          "name": "Chetaslua",
+          "hits": 6,
+          "best": 42484,
+          "total": 124276,
+          "best_url": "https://x.com/chetaslua/status/2115805597887348879"
+        },
+        "badlogicgames": {
+          "handle": "@badlogicgames",
+          "name": "Mario Zechner",
+          "hits": 7,
+          "best": 36367,
+          "total": 131313,
+          "best_url": "https://x.com/badlogicgames/status/2115777603034566673"
+        },
+        "hamelhusain": {
+          "handle": "@HamelHusain",
+          "name": "Hamel Husain",
+          "hits": 1,
+          "best": 29631,
+          "total": 29631,
+          "best_url": "https://x.com/HamelHusain/status/2115918321141109029"
+        },
+        "firecrawl": {
+          "handle": "@firecrawl",
+          "name": "Firecrawl",
+          "hits": 1,
+          "best": 28408,
+          "total": 28408,
+          "best_url": "https://x.com/firecrawl/status/2115833319589888075"
+        },
+        "dannypostma": {
+          "handle": "@dannypostma",
+          "name": "Danny Postma",
+          "hits": 2,
+          "best": 25586,
+          "total": 45651,
+          "best_url": "https://x.com/dannypostma/status/2115785688524394564"
+        },
+        "theahmadosman": {
+          "handle": "@TheAhmadOsman",
+          "name": "Ahmad",
+          "hits": 3,
+          "best": 25311,
+          "total": 51848,
+          "best_url": "https://x.com/TheAhmadOsman/status/2115907609358479664"
+        },
+        "jullerino": {
+          "handle": "@jullerino",
+          "name": "Julius",
+          "hits": 3,
+          "best": 25302,
+          "total": 51115,
+          "best_url": "https://x.com/jullerino/status/2115930698074997125"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 3,
+          "best": 22460,
+          "total": 51150,
+          "best_url": "https://x.com/tibo_maker/status/2115784019660956120"
+        },
+        "cryptopunk7213": {
+          "handle": "@cryptopunk7213",
+          "name": "Ejaaz",
+          "hits": 2,
+          "best": 20683,
+          "total": 27139,
+          "best_url": "https://x.com/cryptopunk7213/status/2115886307859714441"
+        },
+        "rowancheung": {
+          "handle": "@rowancheung",
+          "name": "Rowan Cheung",
+          "hits": 1,
+          "best": 18810,
+          "total": 18810,
+          "best_url": "https://x.com/rowancheung/status/2115818656307265852"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 3,
+          "best": 18314,
+          "total": 39935,
+          "best_url": "https://x.com/swyx/status/2115624308567658713"
+        },
+        "zachlloydtweets": {
+          "handle": "@zachlloydtweets",
+          "name": "Zach Lloyd",
+          "hits": 2,
+          "best": 17529,
+          "total": 31435,
+          "best_url": "https://x.com/zachlloydtweets/status/2115864548519583977"
+        },
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 4,
+          "best": 17328,
+          "total": 48463,
+          "best_url": "https://x.com/jackfriks/status/2115834573414146170"
+        },
+        "pvncher": {
+          "handle": "@pvncher",
+          "name": "eric provencher",
+          "hits": 2,
+          "best": 13515,
+          "total": 19906,
+          "best_url": "https://x.com/pvncher/status/2115589956190253405"
+        },
+        "defiignas": {
+          "handle": "@DefiIgnas",
+          "name": "Ignas",
+          "hits": 2,
+          "best": 12883,
+          "total": 22433,
+          "best_url": "https://x.com/DefiIgnas/status/2115914486687084692"
+        },
+        "awesomekling": {
+          "handle": "@awesomekling",
+          "name": "Andreas Kling",
+          "hits": 1,
+          "best": 12094,
+          "total": 12094,
+          "best_url": "https://x.com/awesomekling/status/2115920901925703817"
+        },
+        "ctatedev": {
+          "handle": "@ctatedev",
+          "name": "Chris Tate",
+          "hits": 1,
+          "best": 11671,
+          "total": 11671,
+          "best_url": "https://x.com/ctatedev/status/2115835185816289372"
+        },
+        "dillon_mulroy": {
+          "handle": "@dillon_mulroy",
+          "name": "Dillon Mulroy",
+          "hits": 2,
+          "best": 11540,
+          "total": 19402,
+          "best_url": "https://x.com/dillon_mulroy/status/2115793098525548705"
+        },
+        "dexhorthy": {
+          "handle": "@dexhorthy",
+          "name": "dex",
+          "hits": 1,
+          "best": 10699,
+          "total": 10699,
+          "best_url": "https://x.com/dexhorthy/status/2115825513948393937"
+        },
+        "justjake": {
+          "handle": "@JustJake",
+          "name": "Jake",
+          "hits": 2,
+          "best": 9698,
+          "total": 15180,
+          "best_url": "https://x.com/JustJake/status/2115831398691143909"
+        },
+        "jarrodwatts": {
+          "handle": "@jarrodwatts",
+          "name": "Jarrod Watts",
+          "hits": 1,
+          "best": 9670,
+          "total": 9670,
+          "best_url": "https://x.com/jarrodwatts/status/2115904964061245890"
+        },
+        "adocomplete": {
+          "handle": "@adocomplete",
+          "name": "Ado",
+          "hits": 1,
+          "best": 9640,
+          "total": 9640,
+          "best_url": "https://x.com/adocomplete/status/2115667836022772058"
+        },
+        "_avichawla": {
+          "handle": "@_avichawla",
+          "name": "Avi Chawla",
+          "hits": 1,
+          "best": 7218,
+          "total": 7218,
+          "best_url": "https://x.com/_avichawla/status/2115748674903130471"
+        },
+        "0x_kaize": {
+          "handle": "@0x_kaize",
+          "name": "kaize",
+          "hits": 1,
+          "best": 6961,
+          "total": 6961,
+          "best_url": "https://x.com/0x_kaize/status/2115793979933372446"
+        },
+        "aidenybai": {
+          "handle": "@aidenybai",
+          "name": "Aiden Bai",
+          "hits": 1,
+          "best": 6712,
+          "total": 6712,
+          "best_url": "https://x.com/aidenybai/status/2115770385207902382"
+        }
+      }
+    },
+    "2026-10-30": {
+      "accounts": {
+        "jasonzhou1993": {
+          "handle": "@jasonzhou1993",
+          "name": "Jason Zhou",
+          "hits": 2,
+          "best": 347473,
+          "total": 359556,
+          "best_url": "https://x.com/jasonzhou1993/status/2116122945605222637"
+        },
+        "ansem": {
+          "handle": "@ansem",
+          "name": "ansem",
+          "hits": 3,
+          "best": 199630,
+          "total": 322154,
+          "best_url": "https://x.com/ansem/status/2115980371829440571"
+        },
+        "ryolu_": {
+          "handle": "@ryolu_",
+          "name": "Ryo Lu",
+          "hits": 2,
+          "best": 107184,
+          "total": 117247,
+          "best_url": "https://x.com/ryolu_/status/2116126528060973480"
+        },
+        "emmanuel_2m": {
+          "handle": "@emmanuel_2m",
+          "name": "Emm | scenario.com",
+          "hits": 1,
+          "best": 93719,
+          "total": 93719,
+          "best_url": "https://x.com/emmanuel_2m/status/2116188727579918358"
+        },
+        "0xngmi": {
+          "handle": "@0xngmi",
+          "name": "0xngmi",
+          "hits": 1,
+          "best": 62899,
+          "total": 62899,
+          "best_url": "https://x.com/0xngmi/status/2116214905590133122"
+        },
+        "chetaslua": {
+          "handle": "@chetaslua",
+          "name": "Chetaslua",
+          "hits": 5,
+          "best": 50608,
+          "total": 137762,
+          "best_url": "https://x.com/chetaslua/status/2116258796234522740"
+        },
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 8,
+          "best": 48926,
+          "total": 164670,
+          "best_url": "https://x.com/jackfriks/status/2116158584442814664"
+        },
+        "badlogicgames": {
+          "handle": "@badlogicgames",
+          "name": "Mario Zechner",
+          "hits": 6,
+          "best": 46711,
+          "total": 127363,
+          "best_url": "https://x.com/badlogicgames/status/2116078693827428383"
+        },
+        "saboo_shubham_": {
+          "handle": "@Saboo_Shubham_",
+          "name": "Shubham Saboo",
+          "hits": 1,
+          "best": 45872,
+          "total": 45872,
+          "best_url": "https://x.com/Saboo_Shubham_/status/2116013734359703554"
+        },
+        "_avichawla": {
+          "handle": "@_avichawla",
+          "name": "Avi Chawla",
+          "hits": 1,
+          "best": 37982,
+          "total": 37982,
+          "best_url": "https://x.com/_avichawla/status/2116069319205663159"
+        },
+        "ericzakariasson": {
+          "handle": "@ericzakariasson",
+          "name": "eric zakariasson",
+          "hits": 1,
+          "best": 36930,
+          "total": 36930,
+          "best_url": "https://x.com/ericzakariasson/status/2116282740802998627"
+        },
+        "aidenybai": {
+          "handle": "@aidenybai",
+          "name": "Aiden Bai",
+          "hits": 2,
+          "best": 31634,
+          "total": 36656,
+          "best_url": "https://x.com/aidenybai/status/2116041088536547361"
+        },
+        "defiignas": {
+          "handle": "@DefiIgnas",
+          "name": "Ignas",
+          "hits": 5,
+          "best": 30912,
+          "total": 85803,
+          "best_url": "https://x.com/DefiIgnas/status/2116119658931876318"
+        },
+        "mitsuhiko": {
+          "handle": "@mitsuhiko",
+          "name": "Armin Ronacher ⇌",
+          "hits": 3,
+          "best": 30731,
+          "total": 58294,
+          "best_url": "https://x.com/mitsuhiko/status/2116125933719437613"
+        },
+        "zarazhangrui": {
+          "handle": "@zarazhangrui",
+          "name": "Zara Zhang",
+          "hits": 1,
+          "best": 26301,
+          "total": 26301,
+          "best_url": "https://x.com/zarazhangrui/status/2116281211962454056"
+        },
+        "awesomekling": {
+          "handle": "@awesomekling",
+          "name": "Andreas Kling",
+          "hits": 1,
+          "best": 25755,
+          "total": 25755,
+          "best_url": "https://x.com/awesomekling/status/2116139917034004819"
+        },
+        "cryptopunk7213": {
+          "handle": "@cryptopunk7213",
+          "name": "Ejaaz",
+          "hits": 4,
+          "best": 25533,
+          "total": 45517,
+          "best_url": "https://x.com/cryptopunk7213/status/2116235578933133807"
+        },
+        "nutlope": {
+          "handle": "@nutlope",
+          "name": "Hassan",
+          "hits": 1,
+          "best": 24125,
+          "total": 24125,
+          "best_url": "https://x.com/nutlope/status/2116207994832838818"
+        },
+        "dexhorthy": {
+          "handle": "@dexhorthy",
+          "name": "dex",
+          "hits": 2,
+          "best": 23019,
+          "total": 42195,
+          "best_url": "https://x.com/dexhorthy/status/2116003536098263419"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 3,
+          "best": 18994,
+          "total": 43542,
+          "best_url": "https://x.com/swyx/status/2115993441004036131"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 15435,
+          "total": 28927,
+          "best_url": "https://x.com/tibo_maker/status/2116112325421785186"
+        },
+        "jullerino": {
+          "handle": "@jullerino",
+          "name": "Julius",
+          "hits": 1,
+          "best": 15324,
+          "total": 15324,
+          "best_url": "https://x.com/jullerino/status/2116015887610413452"
+        },
+        "theahmadosman": {
+          "handle": "@TheAhmadOsman",
+          "name": "Ahmad",
+          "hits": 4,
+          "best": 14291,
+          "total": 39904,
+          "best_url": "https://x.com/TheAhmadOsman/status/2116071029575680057"
+        },
+        "firecrawl": {
+          "handle": "@firecrawl",
+          "name": "Firecrawl",
+          "hits": 1,
+          "best": 13139,
+          "total": 13139,
+          "best_url": "https://x.com/firecrawl/status/2116195692720824789"
+        },
+        "thorstenball": {
+          "handle": "@thorstenball",
+          "name": "Thorsten Ball",
+          "hits": 4,
+          "best": 12851,
+          "total": 35754,
+          "best_url": "https://x.com/thorstenball/status/2116042923082928485"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 1,
+          "best": 11488,
+          "total": 11488,
+          "best_url": "https://x.com/jxnlco/status/2116195818617376832"
+        },
+        "atmoio": {
+          "handle": "@atmoio",
+          "name": "Mo",
+          "hits": 1,
+          "best": 11094,
+          "total": 11094,
+          "best_url": "https://x.com/atmoio/status/2116208871551504877"
+        },
+        "adocomplete": {
+          "handle": "@adocomplete",
+          "name": "Ado",
+          "hits": 1,
+          "best": 10585,
+          "total": 10585,
+          "best_url": "https://x.com/adocomplete/status/2116224220539883992"
+        },
+        "0x_kaize": {
+          "handle": "@0x_kaize",
+          "name": "kaize",
+          "hits": 2,
+          "best": 9292,
+          "total": 17156,
+          "best_url": "https://x.com/0x_kaize/status/2116186071998328936"
+        },
+        "mrdoob": {
+          "handle": "@mrdoob",
+          "name": "mrdoob",
+          "hits": 3,
+          "best": 8989,
+          "total": 24079,
+          "best_url": "https://x.com/mrdoob/status/2116066301466890476"
+        }
+      }
+    },
+    "2026-10-31": {
+      "accounts": {
+        "sudoingx": {
+          "handle": "@sudoingX",
+          "name": "Sudo su",
+          "hits": 1,
+          "best": 951145,
+          "total": 951145,
+          "best_url": "https://x.com/sudoingX/status/2116347672642871580"
+        },
+        "ctatedev": {
+          "handle": "@ctatedev",
+          "name": "Chris Tate",
+          "hits": 1,
+          "best": 710123,
+          "total": 710123,
+          "best_url": "https://x.com/ctatedev/status/2116323148706771302"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 2,
+          "best": 262827,
+          "total": 294700,
+          "best_url": "https://x.com/swyx/status/2116305528330785190"
+        },
+        "chetaslua": {
+          "handle": "@chetaslua",
+          "name": "Chetaslua",
+          "hits": 3,
+          "best": 80236,
+          "total": 128478,
+          "best_url": "https://x.com/chetaslua/status/2116491934059450831"
+        },
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 23,
+          "best": 75124,
+          "total": 263160,
+          "best_url": "https://x.com/jackfriks/status/2116521286595985495"
+        },
+        "atmoio": {
+          "handle": "@atmoio",
+          "name": "Mo",
+          "hits": 1,
+          "best": 62411,
+          "total": 62411,
+          "best_url": "https://x.com/atmoio/status/2116657121152664042"
+        },
+        "theahmadosman": {
+          "handle": "@TheAhmadOsman",
+          "name": "Ahmad",
+          "hits": 3,
+          "best": 60216,
+          "total": 136924,
+          "best_url": "https://x.com/TheAhmadOsman/status/2116385956056256604"
+        },
+        "thorstenball": {
+          "handle": "@thorstenball",
+          "name": "Thorsten Ball",
+          "hits": 3,
+          "best": 57511,
+          "total": 76924,
+          "best_url": "https://x.com/thorstenball/status/2116643946055311385"
+        },
+        "dillon_mulroy": {
+          "handle": "@dillon_mulroy",
+          "name": "Dillon Mulroy",
+          "hits": 3,
+          "best": 51688,
+          "total": 73125,
+          "best_url": "https://x.com/dillon_mulroy/status/2116659451964838296"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 2,
+          "best": 49969,
+          "total": 57433,
+          "best_url": "https://x.com/tibo_maker/status/2116477848328307187"
+        },
+        "ansem": {
+          "handle": "@ansem",
+          "name": "ansem",
+          "hits": 3,
+          "best": 43965,
+          "total": 105806,
+          "best_url": "https://x.com/ansem/status/2116552394435690630"
+        },
+        "mitsuhiko": {
+          "handle": "@mitsuhiko",
+          "name": "Armin Ronacher ⇌",
+          "hits": 1,
+          "best": 33432,
+          "total": 33432,
+          "best_url": "https://x.com/mitsuhiko/status/2116622293757792424"
+        },
+        "badlogicgames": {
+          "handle": "@badlogicgames",
+          "name": "Mario Zechner",
+          "hits": 9,
+          "best": 31613,
+          "total": 174549,
+          "best_url": "https://x.com/badlogicgames/status/2116633270377160975"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 3,
+          "best": 31406,
+          "total": 50798,
+          "best_url": "https://x.com/jxnlco/status/2116601268491943953"
+        },
+        "pvncher": {
+          "handle": "@pvncher",
+          "name": "eric provencher",
+          "hits": 1,
+          "best": 28343,
+          "total": 28343,
+          "best_url": "https://x.com/pvncher/status/2116371675906281934"
+        },
+        "dexhorthy": {
+          "handle": "@dexhorthy",
+          "name": "dex",
+          "hits": 2,
+          "best": 21796,
+          "total": 28557,
+          "best_url": "https://x.com/dexhorthy/status/2116354916990226474"
+        },
+        "cryptopunk7213": {
+          "handle": "@cryptopunk7213",
+          "name": "Ejaaz",
+          "hits": 1,
+          "best": 20052,
+          "total": 20052,
+          "best_url": "https://x.com/cryptopunk7213/status/2116632858420752406"
+        },
+        "gyome1_": {
+          "handle": "@Gyome1_",
+          "name": "Gyomei",
+          "hits": 1,
+          "best": 18152,
+          "total": 18152,
+          "best_url": "https://x.com/Gyome1_/status/2116500721751216350"
+        },
+        "hamelhusain": {
+          "handle": "@HamelHusain",
+          "name": "Hamel Husain",
+          "hits": 1,
+          "best": 15244,
+          "total": 15244,
+          "best_url": "https://x.com/HamelHusain/status/2116310090055831947"
+        },
+        "saboo_shubham_": {
+          "handle": "@Saboo_Shubham_",
+          "name": "Shubham Saboo",
+          "hits": 2,
+          "best": 12747,
+          "total": 18737,
+          "best_url": "https://x.com/Saboo_Shubham_/status/2116402491827143098"
+        },
+        "_avichawla": {
+          "handle": "@_avichawla",
+          "name": "Avi Chawla",
+          "hits": 1,
+          "best": 8785,
+          "total": 8785,
+          "best_url": "https://x.com/_avichawla/status/2116505679691407710"
+        },
+        "0x_kaize": {
+          "handle": "@0x_kaize",
+          "name": "kaize",
+          "hits": 1,
+          "best": 5581,
+          "total": 5581,
+          "best_url": "https://x.com/0x_kaize/status/2116563190712856662"
+        },
+        "adocomplete": {
+          "handle": "@adocomplete",
+          "name": "Ado",
+          "hits": 1,
+          "best": 5305,
+          "total": 5305,
+          "best_url": "https://x.com/adocomplete/status/2116327968230580672"
+        }
+      }
+    },
+    "2026-11-01": {
+      "accounts": {
+        "jackfriks": {
+          "handle": "@jackfriks",
+          "name": "jack friks",
+          "hits": 8,
+          "best": 2131086,
+          "total": 2290848,
+          "best_url": "https://x.com/jackfriks/status/2116932662996988036"
+        },
+        "saboo_shubham_": {
+          "handle": "@Saboo_Shubham_",
+          "name": "Shubham Saboo",
+          "hits": 1,
+          "best": 379678,
+          "total": 379678,
+          "best_url": "https://x.com/Saboo_Shubham_/status/2116740612372435274"
+        },
+        "chetaslua": {
+          "handle": "@chetaslua",
+          "name": "Chetaslua",
+          "hits": 7,
+          "best": 228797,
+          "total": 495254,
+          "best_url": "https://x.com/chetaslua/status/2116795545205543398"
+        },
+        "mitsuhiko": {
+          "handle": "@mitsuhiko",
+          "name": "Armin Ronacher ⇌",
+          "hits": 4,
+          "best": 182493,
+          "total": 259075,
+          "best_url": "https://x.com/mitsuhiko/status/2116861021927227421"
+        },
+        "0xngmi": {
+          "handle": "@0xngmi",
+          "name": "0xngmi",
+          "hits": 1,
+          "best": 135426,
+          "total": 135426,
+          "best_url": "https://x.com/0xngmi/status/2116864334160687194"
+        },
+        "defiignas": {
+          "handle": "@DefiIgnas",
+          "name": "Ignas",
+          "hits": 2,
+          "best": 78564,
+          "total": 90390,
+          "best_url": "https://x.com/DefiIgnas/status/2116899081788305466"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 1,
+          "best": 77724,
+          "total": 77724,
+          "best_url": "https://x.com/swyx/status/2116773135668404286"
+        },
+        "cbb0fe": {
+          "handle": "@Cbb0fe",
+          "name": "CBB",
+          "hits": 1,
+          "best": 76707,
+          "total": 76707,
+          "best_url": "https://x.com/Cbb0fe/status/2116905981560889496"
+        },
+        "badlogicgames": {
+          "handle": "@badlogicgames",
+          "name": "Mario Zechner",
+          "hits": 11,
+          "best": 66010,
+          "total": 212452,
+          "best_url": "https://x.com/badlogicgames/status/2116997870213906524"
+        },
+        "dillon_mulroy": {
+          "handle": "@dillon_mulroy",
+          "name": "Dillon Mulroy",
+          "hits": 2,
+          "best": 46021,
+          "total": 64301,
+          "best_url": "https://x.com/dillon_mulroy/status/2116762916548714638"
+        },
+        "justjake": {
+          "handle": "@JustJake",
+          "name": "Jake",
+          "hits": 1,
+          "best": 34323,
+          "total": 34323,
+          "best_url": "https://x.com/JustJake/status/2116952823866994908"
+        },
+        "0x_kaize": {
+          "handle": "@0x_kaize",
+          "name": "kaize",
+          "hits": 2,
+          "best": 31839,
+          "total": 38527,
+          "best_url": "https://x.com/0x_kaize/status/2116943921511334203"
+        },
+        "_avichawla": {
+          "handle": "@_avichawla",
+          "name": "Avi Chawla",
+          "hits": 1,
+          "best": 30554,
+          "total": 30554,
+          "best_url": "https://x.com/_avichawla/status/2116861920682860761"
+        },
+        "cryptopunk7213": {
+          "handle": "@cryptopunk7213",
+          "name": "Ejaaz",
+          "hits": 1,
+          "best": 25758,
+          "total": 25758,
+          "best_url": "https://x.com/cryptopunk7213/status/2117013382490398738"
+        },
+        "jxnlco": {
+          "handle": "@jxnlco",
+          "name": "jason",
+          "hits": 5,
+          "best": 24439,
+          "total": 87883,
+          "best_url": "https://x.com/jxnlco/status/2116966788571251055"
+        },
+        "sudoingx": {
+          "handle": "@sudoingX",
+          "name": "Sudo su",
+          "hits": 1,
+          "best": 22425,
+          "total": 22425,
+          "best_url": "https://x.com/sudoingX/status/2116743079587987586"
+        },
+        "ctatedev": {
+          "handle": "@ctatedev",
+          "name": "Chris Tate",
+          "hits": 1,
+          "best": 21763,
+          "total": 21763,
+          "best_url": "https://x.com/ctatedev/status/2116945207967261176"
+        },
+        "thorstenball": {
+          "handle": "@thorstenball",
+          "name": "Thorsten Ball",
+          "hits": 1,
+          "best": 20589,
+          "total": 20589,
+          "best_url": "https://x.com/thorstenball/status/2116943219850440750"
+        },
+        "gyome1_": {
+          "handle": "@Gyome1_",
+          "name": "Gyomei",
+          "hits": 1,
+          "best": 19658,
+          "total": 19658,
+          "best_url": "https://x.com/Gyome1_/status/2116838860629946575"
+        },
+        "aidenybai": {
+          "handle": "@aidenybai",
+          "name": "Aiden Bai",
+          "hits": 1,
+          "best": 17147,
+          "total": 17147,
+          "best_url": "https://x.com/aidenybai/status/2116693098596339935"
+        },
+        "theahmadosman": {
+          "handle": "@TheAhmadOsman",
+          "name": "Ahmad",
+          "hits": 3,
+          "best": 16369,
+          "total": 35576,
+          "best_url": "https://x.com/TheAhmadOsman/status/2116700344675869171"
+        },
+        "hamelhusain": {
+          "handle": "@HamelHusain",
+          "name": "Hamel Husain",
+          "hits": 1,
+          "best": 15666,
+          "total": 15666,
+          "best_url": "https://x.com/HamelHusain/status/2116987667716223160"
+        },
+        "adocomplete": {
+          "handle": "@adocomplete",
+          "name": "Ado",
+          "hits": 1,
+          "best": 13204,
+          "total": 13204,
+          "best_url": "https://x.com/adocomplete/status/2116686294130823461"
+        },
+        "ansem": {
+          "handle": "@ansem",
+          "name": "ansem",
+          "hits": 1,
+          "best": 11965,
+          "total": 11965,
+          "best_url": "https://x.com/ansem/status/2116673031342801025"
+        },
+        "jasonzhou1993": {
+          "handle": "@jasonzhou1993",
+          "name": "Jason Zhou",
+          "hits": 1,
+          "best": 10872,
+          "total": 10872,
+          "best_url": "https://x.com/jasonzhou1993/status/2116751750699102233"
+        },
+        "tibo_maker": {
+          "handle": "@tibo_maker",
+          "name": "Tibo",
+          "hits": 1,
+          "best": 9025,
+          "total": 9025,
+          "best_url": "https://x.com/tibo_maker/status/2116932894715199996"
+        },
+        "btibor91": {
+          "handle": "@btibor91",
+          "name": "Tibor Blaho",
+          "hits": 1,
+          "best": 6675,
+          "total": 6675,
+          "best_url": "https://x.com/btibor91/status/2116948802066075855"
+        }
+      }
+    }
+  }
+}
