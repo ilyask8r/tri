@@ -856,12 +856,12 @@ function isYouEntry(e, op){
   if(!e) return false;
   if(e.is_you===true) return true;
   const h=String(e.handle||'').toLowerCase();
-  const oh=String((op&&op.handle)||'@your_handle').toLowerCase();
+  const oh=String((op&&op.handle)||'@https_ilya').toLowerCase();
   return h===oh;
 }
 function applyBrand(d){
   const op=d.operator||{};
-  const handle=d.brand_handle||op.handle||'@your_handle';
+  const handle=d.brand_handle||op.handle||'@https_ilya';
   const title=d.brand_title||'Grok Bot X Virality Score';
   const tEl=document.getElementById('brand-title');
   const yd=document.getElementById('your-day-label');
